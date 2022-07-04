@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hooks-context-app/static/css/main.63e14f4f.css",
+    "main.js": "/hooks-context-app/static/js/main.623fb49d.js",
+    "static/js/787.3eedfdbc.chunk.js": "/hooks-context-app/static/js/787.3eedfdbc.chunk.js",
+    "index.html": "/hooks-context-app/index.html",
+    "main.63e14f4f.css.map": "/hooks-context-app/static/css/main.63e14f4f.css.map",
+    "main.623fb49d.js.map": "/hooks-context-app/static/js/main.623fb49d.js.map",
+    "787.3eedfdbc.chunk.js.map": "/hooks-context-app/static/js/787.3eedfdbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63e14f4f.css",
+    "static/js/main.623fb49d.js"
+  ]
+}
